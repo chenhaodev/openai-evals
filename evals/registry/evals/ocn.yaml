@@ -1,0 +1,8 @@
+ocn:
+  id: ocn.dev.v0
+  metrics: [accuracy]
+
+ocn.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: ocn/samples.jsonl

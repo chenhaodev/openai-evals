@@ -49,4 +49,6 @@ eval_list = [
     "japanese-itpassport-exam01.dev.v0",
     "logiqa.dev.v0",
     "chinese_zodiac.dev.v0",
+    "ocn.dev.v0",
+    "aocnp.dev.v0",
 ]

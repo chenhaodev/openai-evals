@@ -1,0 +1,8 @@
+aocnp:
+  id: aocnp.dev.v0
+  metrics: [accuracy]
+
+aocnp.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: aocnp/samples.jsonl
